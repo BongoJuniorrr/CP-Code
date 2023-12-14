@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Chuyen Tin/BoiDuong",
-      "program": "d:/Chuyen Tin/BoiDuong/build/Debug/outDebug",
+      "cwd": "d:/Chuyen Tin/BoiDuong/CP-Code",
+      "program": "d:/Chuyen Tin/BoiDuong/CP-Code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
