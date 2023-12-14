@@ -1,0 +1,1 @@
+{"name":"Local: scc","url":"d:\\Chuyen Tin\\BoiDuong\\scc.cpp","tests":[{"id":1699498161685,"input":"3 2\n1 2\n2 3","output":"3"},{"id":1699660147525,"input":"3 3\n1 2\n2 3\n3 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\scc.cpp","group":"local","local":true}

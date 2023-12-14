@@ -1,0 +1,1 @@
+{"name":"Local: vanban","url":"d:\\Chuyen Tin\\BoiDuong\\vanban.cpp","tests":[{"id":1697526872252,"input":"Ky thi hoc sinh gioi bảng B","output":"B : 1\nK : 1\nb : 1\nc : 1\ng : 2\nh : 3\ni : 4\nn : 2\no : 2\ns : 1\nt : 1\ny : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\vanban.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: TREE","url":"d:\\Chuyen Tin\\BoiDuong\\TREE.cpp","tests":[{"id":1697187951469,"input":"3\n12\n1 1 2 2 3 2 3 6 6 6 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\TREE.cpp","group":"local","local":true}

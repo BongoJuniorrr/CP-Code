@@ -1,0 +1,1 @@
+{"name":"Local: PAIRSFR","url":"d:\\Chuyen Tin\\BoiDuong\\PAIRSFR.cpp","tests":[{"id":1697244285948,"input":"220 285","output":"1"},{"id":1697245022358,"input":"1 500","output":"4"},{"id":1697245257544,"input":"1 1000000","output":"44"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\PAIRSFR.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: qtree","url":"d:\\Chuyen Tin\\BoiDuong\\qtree.cpp","tests":[{"id":1701419396997,"input":"8 2\n1 2 1\n2 4 1\n2 5 2\n1 3 1\n3 6 2\n6 7 1\n7 8 1\n1 4 6\n2 4 6 4","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\qtree.cpp","group":"local","local":true}

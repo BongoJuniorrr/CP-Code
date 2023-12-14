@@ -1,0 +1,1 @@
+{"name":"Local: FOOD","url":"d:\\Chuyen Tin\\BoiDuong\\FOOD.cpp","tests":[{"id":1697787277145,"input":"3 2\n3 1 2","output":"10\n2 4 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\FOOD.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: scrat","url":"d:\\Chuyen Tin\\BoiDuong\\scrat.cpp","tests":[{"id":1697787962422,"input":"7 2\n1 2 2 1 1 2 1\n1 2\n2 3\n2 4\n1 5\n5 6\n4 7","output":"1100100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\scrat.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: rhome","url":"d:\\Chuyen Tin\\BoiDuong\\rhome.cpp","tests":[{"id":1701765807348,"input":"5 3\n1 1 5 5\n1 2\n4 1\n3 3 ","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\rhome.cpp","group":"local","local":true}

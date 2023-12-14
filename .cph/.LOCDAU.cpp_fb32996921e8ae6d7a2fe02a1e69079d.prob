@@ -1,0 +1,1 @@
+{"name":"Local: LOCDAU","url":"d:\\Chuyen Tin\\BoiDuong\\LOCDAU.cpp","tests":[{"id":1697789618735,"input":"10 5 3\n3 1 2 3 4 5 2 4 1 3","output":"1.7000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\LOCDAU.cpp","group":"local","local":true}

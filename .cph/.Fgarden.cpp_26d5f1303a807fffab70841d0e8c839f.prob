@@ -1,0 +1,1 @@
+{"name":"Local: Fgarden","url":"d:\\Chuyen Tin\\BoiDuong\\Fgarden.cpp","tests":[{"id":1697617601873,"input":"9 3\n5 1 3 5 8 6 6 9 10","output":"4"},{"id":1697618640384,"input":"10 81\n639 785 399 386 370 760 510 890 449 357 ","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\Fgarden.cpp","group":"local","local":true}

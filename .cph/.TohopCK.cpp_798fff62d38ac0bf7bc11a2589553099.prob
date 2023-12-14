@@ -1,0 +1,1 @@
+{"name":"Local: TohopCK","url":"d:\\Chuyen Tin\\BoiDuong\\TohopCK.cpp","tests":[{"id":1700034389693,"input":"5 3\n2 4 2 3 4","output":"39"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\TohopCK.cpp","group":"local","local":true}

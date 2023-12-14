@@ -1,0 +1,1 @@
+{"name":"Local: FORCE","url":"d:\\Chuyen Tin\\BoiDuong\\FORCE.cpp","tests":[{"id":1697099849263,"input":"3 6","output":"11"},{"id":1697099853950,"input":"100 200","output":"262"},{"id":1697101080800,"input":"100 426","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\FORCE.cpp","group":"local","local":true}

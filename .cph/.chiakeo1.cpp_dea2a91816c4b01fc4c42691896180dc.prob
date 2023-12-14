@@ -1,0 +1,1 @@
+{"name":"Local: chiakeo1","url":"d:\\Chuyen Tin\\BoiDuong\\chiakeo1.cpp","tests":[{"id":1698043827406,"input":"5\n4 6 7 10 11","output":"1 \n2 \n4\n6\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\chiakeo1.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: KC","url":"d:\\Chuyen Tin\\BoiDuong\\KC.cpp","tests":[{"id":1696834588357,"input":"3 2\n3 3 4\n1 6 4\n1 1 2","output":"2"},{"id":1696834606096,"input":"5 3\n6 6 4\n6 2 7\n3 1 3\n4 1 5\n6 2 6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\KC.cpp","group":"local","local":true}

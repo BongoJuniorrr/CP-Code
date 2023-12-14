@@ -1,0 +1,1 @@
+{"name":"Local: ghh","url":"d:\\Chuyen Tin\\BoiDuong\\ghh.cpp","tests":[{"id":1698391003119,"input":"3\n6 16 12","output":"1\n0\n1"},{"id":1698391156122,"input":"1\n16","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\ghh.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: TRIANGEL","url":"d:\\Chuyen Tin\\BoiDuong\\TRIANGEL.cpp","tests":[{"id":1696922640725,"input":"5\nr 10\ng 10\nb 12\nr 5\ng 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\TRIANGEL.cpp","group":"local","local":true}

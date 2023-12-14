@@ -1,0 +1,1 @@
+{"name":"Local: snake","url":"d:\\Chuyen Tin\\BoiDuong\\snake.cpp","tests":[{"id":1697010553163,"input":"6 2\n7 9 8 2 3 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\snake.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ROUTE","url":"d:\\Chuyen Tin\\BoiDuong\\ROUTE.cpp","tests":[{"id":1697791097098,"input":"6 6 2 3\n3 2\n1 5 4\n1 2\n1 6\n3 6\n2 3\n4 5\n3 4","output":"1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\ROUTE.cpp","group":"local","local":true}

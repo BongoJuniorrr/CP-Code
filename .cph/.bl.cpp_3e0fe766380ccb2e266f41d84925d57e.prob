@@ -1,0 +1,1 @@
+{"name":"Local: bl","url":"d:\\Chuyen Tin\\BoiDuong\\bl.cpp","tests":[{"id":1697441490388,"input":"8\n1 6\n2 4\n3 1\n4 2\n5 7\n6 5\n7 9\n8 3","output":"34.0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chuyen Tin\\BoiDuong\\bl.cpp","group":"local","local":true}
